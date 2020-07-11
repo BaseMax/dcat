@@ -200,8 +200,8 @@ With no FILE, or when FILE is -, read standard input.\n\
 --version  output version information and exit\n\
 \n\
 Examples:\n\
-cat f - g  Output f's contents, then standard input, then g's contents.\n\
-cat        Copy standard input to standard output.\n\
+dcat f - g  Output f's contents, then standard input, then g's contents.\n\
+dcat        Copy standard input to standard output.\n\
 \n\
 Programming by Max Base\n\
 Full documentation at: <https://github.com/basemac/dcat>\n\
