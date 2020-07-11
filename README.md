@@ -42,6 +42,18 @@ Full documentation at: <https://github.com/basemac/dcat>
 or available locally via: 'dcat --learn'
 ```
 
+### Version
+
+```
+dcat (Donya OS) 1.0
+Copyright (C) 2020 Max Base.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Max Base.
+```
+
 ### What's cat?
 
 cat is a standard Unix utility that reads files sequentially, writing them to standard output.
@@ -50,9 +62,13 @@ The name is derived from its function to concatenate files.
 
 ### TODO
 
+All features not ready:
+
 - `-s`
 - `-b`
 - `-v``
+
+I accept your contribute or help to develop this tool.
 
 ---------
 
