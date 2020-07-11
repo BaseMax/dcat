@@ -8,6 +8,8 @@ Implementation **cat** unix tools using pure **C programming language**. (Just a
 - Good performance
 - Depends on glibc
 - Support most features of unix cat tool
+- Concatenation some files to one output
+- Read from **STDIN**
 
 ## Help
 
@@ -45,6 +47,12 @@ or available locally via: 'dcat --learn'
 cat is a standard Unix utility that reads files sequentially, writing them to standard output.
 
 The name is derived from its function to concatenate files.
+
+### TODO
+
+- `-s`
+- `-b`
+- `-v``
 
 ---------
 
