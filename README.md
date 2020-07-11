@@ -6,10 +6,10 @@ Implementation **cat** unix tools using pure **C programming language**. (Just a
 
 - Tiny code
 - Good performance
-- Depends on glibc
-- Support most features of unix cat tool
+- Support most features of unix `cat` tool
 - Concatenation some files to one output
 - Read from **STDIN**
+- Depends on glibc
 
 ## Help
 
