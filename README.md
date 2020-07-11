@@ -90,6 +90,9 @@ cat is a standard Unix utility that reads files sequentially, writing them to st
 
 The name is derived from its function to concatenate files.
 
+
+Read more about cat at https://en.wikipedia.org/wiki/Cat_(Unix)
+
 ### Build and Compile
 
 ```
@@ -109,6 +112,15 @@ All features not ready:
 - ...
 
 I accept your contribute or help to develop this tool.
+
+## More than 10 similar software
+
+You can read read and learn from these:
+
+- https://gist.github.com/pete/665971
+- https://github.com/Stichting-MINIX-Research-Foundation/minix/blob/master/bin/cat/cat.c
+- https://opensource.apple.com/source/text_cmds/text_cmds-71/cat/cat.c
+- https://github.com/coreutils/coreutils/blob/master/src/cat.c
 
 ---------
 
