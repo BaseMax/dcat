@@ -75,7 +75,8 @@ All features not ready:
 
 - `-s`
 - `-b`
-- `-v``
+- `-v`
+- ...
 
 I accept your contribute or help to develop this tool.
 
