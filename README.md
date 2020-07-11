@@ -60,6 +60,15 @@ cat is a standard Unix utility that reads files sequentially, writing them to st
 
 The name is derived from its function to concatenate files.
 
+### Build and Compile
+
+```
+git clone https://github.com/BaseMax/dcat
+cd dcat
+gcc dcat.c -o dcat -O3
+./dcat --version
+```
+
 ### TODO
 
 All features not ready:
