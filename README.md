@@ -1,8 +1,13 @@
 # dcat
 
-Implementation cat unix tools using pure c programming language. (Just a draft tool for Donya OS)
+Implementation **cat** unix tools using pure **C programming language**. (Just a draft tool for Donya OS)
 
 ## Features
+
+- Tiny code
+- Good performance
+- Depends on glibc
+- Support most features of unix cat tool
 
 ## Help
 
