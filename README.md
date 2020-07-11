@@ -42,6 +42,36 @@ Full documentation at: <https://github.com/basemac/dcat>
 or available locally via: 'dcat --learn'
 ```
 
+### Using
+
+**max@base:~/Desktop$ ./dcat -n dcat.c**
+
+```
+option -n
+
+Reading donya_cat.c
+     1	/     1	*
+     2	 * @Name: dcat: cat - Donya OS
+     3	 * @Author: Max Base
+     4	 * @Repository: github.com/basemax/dcat
+     5	 * @Date: 2020-07-11
+     6	*/
+...
+```
+
+**max@base:~/Desktop$ ./dcat dcat.c**
+
+```
+Reading donya_cat.c
+/*
+ * @Name: dcat: cat - Donya OS
+ * @Author: Max Base
+ * @Repository: github.com/basemax/dcat
+ * @Date: 2020-07-11
+*/
+...
+```
+
 ### Version
 
 ```
