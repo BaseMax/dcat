@@ -34,8 +34,8 @@ With no FILE, or when FILE is -, read standard input.
 --version  output version information and exit
 
 Examples:
-cat f - g  Output f's contents, then standard input, then g's contents.
-cat        Copy standard input to standard output.
+dcat f - g  Output f's contents, then standard input, then g's contents.
+dcat        Copy standard input to standard output.
 
 Programming by Max Base
 Full documentation at: <https://github.com/basemac/dcat>
